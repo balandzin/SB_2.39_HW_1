@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22155" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina6_72" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22131"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -28,14 +28,14 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="Grj-wf-LqY" firstAttribute="top" secondItem="rC2-tG-XSe" secondAttribute="bottom" constant="20" id="2OZ-lm-mOe"/>
-                            <constraint firstItem="rC2-tG-XSe" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="3Dj-Yk-iEc"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Grj-wf-LqY" secondAttribute="trailing" constant="16" id="MnL-Bv-9fw"/>
-                            <constraint firstItem="Grj-wf-LqY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="Pg5-JP-0KU"/>
-                            <constraint firstAttribute="centerY" secondItem="rC2-tG-XSe" secondAttribute="bottom" constant="20" id="cgL-me-h8U"/>
-                            <constraint firstItem="rC2-tG-XSe" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="iWo-Fq-8H9"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="rC2-tG-XSe" secondAttribute="trailing" constant="16" id="rTJ-CZ-LiV"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Grj-wf-LqY" secondAttribute="bottom" constant="20" id="xBi-7U-fZC"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="rC2-tG-XSe" secondAttribute="trailing" constant="16" id="2Ax-Tn-Wwx"/>
+                            <constraint firstItem="Grj-wf-LqY" firstAttribute="height" secondItem="rC2-tG-XSe" secondAttribute="height" multiplier="1.12262" id="7tK-vv-X8y"/>
+                            <constraint firstItem="rC2-tG-XSe" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="BZx-AR-eFC"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Grj-wf-LqY" secondAttribute="trailing" constant="16" id="Sud-gh-YSm"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Grj-wf-LqY" secondAttribute="bottom" constant="20" id="Xcp-Gv-lec"/>
+                            <constraint firstItem="rC2-tG-XSe" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="aE7-zb-3Yj"/>
+                            <constraint firstItem="Grj-wf-LqY" firstAttribute="top" secondItem="rC2-tG-XSe" secondAttribute="bottom" constant="20" id="lVt-jD-Rs2"/>
+                            <constraint firstItem="Grj-wf-LqY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="tJP-nO-Nm0"/>
                         </constraints>
                     </view>
                 </viewController>
